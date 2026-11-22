@@ -1,12 +1,12 @@
-# Compare your local AI
+# 14 Uncensored AI Providers
 
 [Português](README.md) · [English](README.en.md) · [Español](README.es.md)
 
-[Which AI can read your meeting minutes without making things up?](https://inematds.github.io/compare-sua-ia-local/guia/en/)
+[14 Uncensored AI Providers](https://inematds.github.io/compare-sua-ia-local/guia/en/)
 
 ## A test before you choose
 
-This kit helps anyone choosing an AI to run on their own computer. You give the models fictional meeting minutes and check whether they get the maintenance date right and recognize that the minutes omit the name of the person who approved it. The page brings together the 14 entries from the original comparison and links to the standard versions. To repeat the exercise, have a local model already downloaded.
+This kit helps anyone choosing an AI to run on their own computer. You give the models fictional meeting minutes and check whether they get the maintenance date right and recognize that the minutes omit the name of the person who approved it. The comparison brings together 14 variants of local models and points to the standard versions. To repeat the exercise, have a local model already downloaded.
 
 ## Compare using the same meeting minutes
 

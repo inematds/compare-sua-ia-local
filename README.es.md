@@ -1,12 +1,12 @@
-# Compara tu IA local
+# 14 Proveedores de IA sin censura
 
 [Português](README.md) · [English](README.en.md) · [Español](README.es.md)
 
-[¿Qué IA lee tu acta sin inventar?](https://inematds.github.io/compare-sua-ia-local/guia/es/)
+[14 Proveedores de IA sin censura](https://inematds.github.io/compare-sua-ia-local/guia/es/)
 
 ## Una prueba antes de elegir
 
-Este kit ayuda a quienes están eligiendo una IA para ejecutar en su propio ordenador. Les das a los modelos un acta ficticia y compruebas si aciertan el día del mantenimiento y reconocen que el acta omite el nombre de quien aprobó. La página reúne las 14 entradas de la comparación original y enlaza a las versiones estándar. Para repetir la práctica, necesitas tener un modelo local ya descargado.
+Este kit ayuda a quienes están eligiendo una IA para ejecutar en su propio ordenador. Les das a los modelos un acta ficticia y compruebas si aciertan el día del mantenimiento y reconocen que el acta omite el nombre de quien aprobó. La comparación reúne 14 variantes de modelos locales y señala las versiones estándar. Para repetir la práctica, necesitas tener un modelo local ya descargado.
 
 ## Compara usando la misma acta
 

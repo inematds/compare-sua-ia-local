@@ -1,12 +1,12 @@
-# Compare sua IA local
+# 14 Provedores de IA sem Censura
 
 [Português](README.md) · [English](README.en.md) · [Español](README.es.md)
 
-[Qual IA lê sua ata sem inventar?](https://inematds.github.io/compare-sua-ia-local/guia/)
+[14 Provedores de IA sem Censura](https://inematds.github.io/compare-sua-ia-local/guia/)
 
 ## Um teste antes de escolher
 
-Este kit ajuda quem está escolhendo uma IA para rodar no próprio computador. Você dá aos modelos uma ata fictícia e confere se eles acertam o dia da manutenção e reconhecem que a ata omite o nome de quem aprovou. A página reúne as 14 entradas da comparação original e aponta para as versões padrão. Para repetir a prática, tenha um modelo local já baixado.
+Este kit ajuda quem está escolhendo uma IA para rodar no próprio computador. Você dá aos modelos uma ata fictícia e confere se eles acertam o dia da manutenção e reconhecem que a ata omite o nome de quem aprovou. A comparação reúne 14 variantes de modelos locais e aponta para as versões padrão. Para repetir a prática, tenha um modelo local já baixado.
 
 ## Compare com a mesma ata
 
